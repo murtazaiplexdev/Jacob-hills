@@ -244,6 +244,7 @@ button:hover{
 	line-height: 34px;
 	text-transform: uppercase;
 	color: #FFFFFF;
+	min-height: 68px;
 }
 .product-name p{
 	font-size: 24px;
@@ -523,13 +524,16 @@ a.carousel-control-next {
 		font-size: 18px;
 		line-height: 24px;
 	}
+	.product-info p {
+		min-height: 110px;
+	}
 }
 @media(max-width:1200px){
 	.banner-info {
 		max-width: 50%;
 	}
 	.product-info p {
-		min-height: 104px;
+		min-height: 130px;
 	}
 	.customer-review-inner p {
 		font-size: 18px;
@@ -557,7 +561,7 @@ a.carousel-control-next {
 		padding: 0 30px;
 	}
 	.product-info p {
-		min-height: auto;
+		min-height: 104px;
 	}
 }
 @media(max-width:767px){
@@ -651,6 +655,9 @@ a.carousel-control-next {
 		font-size: 15px;
 		line-height: 21px;
 		padding: 0 15px;
+	}
+	.product-info p {
+		min-height: auto;
 	}
 }
 @media(max-width:575px){
