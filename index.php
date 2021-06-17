@@ -45,6 +45,102 @@
                         <p>Sold out</p>
                     </div>
                     <div class="product-img">
+                        <img src="images/CASTILO.png" alt="product">
+                    </div>
+                    <div class="product-price">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-md-6 col-sm-6 col-6"><p>CASTILO</p></div>
+                            <div class="col-md-6 col-sm-6 text-right col-6"><p>$80.00</p></div>
+                        </div>
+                    </div>
+                    <div class="product-name">
+                        <p>Single Cup Set</p>
+                    </div>
+                    <div class="product-star">
+                        <img src="images/star.png" alt="star image">
+                    </div>
+                    <div class="product-info">
+                        <p>A wooden gift box set, including an old-fashioned whiskey glass with a sleek side-mounted cigar rest, whiskey chilling stones, a cigar cutter, and a pair of tongs.</p>
+                    </div>
+                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </div>
+                <div class="product">
+                    <div class="sold-out">
+                        <p>Sold out</p>
+                    </div>
+                    <div class="product-img">
+                        <img src="images/Desiderio.png" alt="product">
+                    </div>
+                    <div class="product-price">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-md-6 col-sm-6 col-6"><p>Desiderio</p></div>
+                            <div class="col-md-6 col-sm-6 text-right col-6"><p>$200.00</p></div>
+                        </div>
+                    </div>
+                    <div class="product-name">
+                        <p>Triple Cigar Set</p>
+                    </div>
+                    <div class="product-star">
+                        <img src="images/star.png" alt="star image">
+                    </div>
+                    <div class="product-info">
+                        <p>A wooden gift box set, including three old-fashioned whiskey glasses with a sleek side-mounted cigar rest, whiskey chilling stones, a cigar cutter, and a pair of tongs. </p>
+                    </div>
+                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </div>
+                <div class="product">
+                    <div class="sold-out">
+                        <p>Sold out</p>
+                    </div>
+                    <div class="product-img">
+                        <img src="images/JH.png" alt="product">
+                    </div>
+                    <div class="product-price">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-md-6 col-sm-6 col-6"><p>JH Potiri<br> set of 2</p></div>
+                            <div class="col-md-6 col-sm-6 text-right col-6"><p>$70.00</p></div>
+                        </div>
+                    </div>
+                    <div class="product-name">
+                        <p>Double Glass</p>
+                    </div>
+                    <div class="product-star">
+                        <img src="images/star.png" alt="star image">
+                    </div>
+                    <div class="product-info">
+                        <p>A set of two old-fashioned whiskey glasses with a sleek side-mounted cigar rest. </p>
+                    </div>
+                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </div>
+                <div class="product">
+                    <div class="sold-out">
+                        <p>Sold out</p>
+                    </div>
+                    <div class="product-img">
+                        <img src="images/JHPotiri.png" alt="product">
+                    </div>
+                    <div class="product-price">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-md-6 col-sm-6 col-6"><p>JH Potiri<br> set of 4</p></div>
+                            <div class="col-md-6 col-sm-6 text-right col-6"><p>$135.00</p></div>
+                        </div>
+                    </div>
+                    <div class="product-name">
+                        <p>Four Glass</p>
+                    </div>
+                    <div class="product-star">
+                        <img src="images/star.png" alt="star image">
+                    </div>
+                    <div class="product-info">
+                        <p>A set of four old-fashioned whiskey glasses with a sleek side-mounted cigar rest.</p>
+                    </div>
+                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </div>
+                <div class="product">
+                    <div class="sold-out">
+                        <p>Sold out</p>
+                    </div>
+                    <div class="product-img">
                         <img src="images/product.png" alt="product">
                     </div>
                     <div class="product-price">
@@ -181,102 +277,6 @@
                     </div>
                     <div class="product-info">
                         <p>A tabletop guillotine-style cigar cutter with a cherry wood polished body and brushed stainless steel accents.</p>
-                    </div>
-                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                </div>
-                <div class="product">
-                    <div class="sold-out">
-                        <p>Sold out</p>
-                    </div>
-                    <div class="product-img">
-                        <img src="images/CASTILO.png" alt="product">
-                    </div>
-                    <div class="product-price">
-                        <div class="row no-gutters align-items-center">
-                            <div class="col-md-6 col-sm-6 col-6"><p>CASTILO</p></div>
-                            <div class="col-md-6 col-sm-6 text-right col-6"><p>$3000.00</p></div>
-                        </div>
-                    </div>
-                    <div class="product-name">
-                        <p>Single Cup Set</p>
-                    </div>
-                    <div class="product-star">
-                        <img src="images/star.png" alt="star image">
-                    </div>
-                    <div class="product-info">
-                        <p>A wooden gift box set, including an old-fashioned whiskey glass with a sleek side-mounted cigar rest, whiskey chilling stones, a cigar cutter, and a pair of tongs.</p>
-                    </div>
-                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                </div>
-                <div class="product">
-                    <div class="sold-out">
-                        <p>Sold out</p>
-                    </div>
-                    <div class="product-img">
-                        <img src="images/Desiderio.png" alt="product">
-                    </div>
-                    <div class="product-price">
-                        <div class="row no-gutters align-items-center">
-                            <div class="col-md-6 col-sm-6 col-6"><p>Desiderio</p></div>
-                            <div class="col-md-6 col-sm-6 text-right col-6"><p>$100.00</p></div>
-                        </div>
-                    </div>
-                    <div class="product-name">
-                        <p>Triple Cigar Set</p>
-                    </div>
-                    <div class="product-star">
-                        <img src="images/star.png" alt="star image">
-                    </div>
-                    <div class="product-info">
-                        <p>A wooden gift box set, including three old-fashioned whiskey glasses with a sleek side-mounted cigar rest, whiskey chilling stones, a cigar cutter, and a pair of tongs. </p>
-                    </div>
-                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                </div>
-                <div class="product">
-                    <div class="sold-out">
-                        <p>Sold out</p>
-                    </div>
-                    <div class="product-img">
-                        <img src="images/JH.png" alt="product">
-                    </div>
-                    <div class="product-price">
-                        <div class="row no-gutters align-items-center">
-                            <div class="col-md-6 col-sm-6 col-6"><p>JH Potiri<br> set of 2</p></div>
-                            <div class="col-md-6 col-sm-6 text-right col-6"><p>$75.00</p></div>
-                        </div>
-                    </div>
-                    <div class="product-name">
-                        <p>Double Glass</p>
-                    </div>
-                    <div class="product-star">
-                        <img src="images/star.png" alt="star image">
-                    </div>
-                    <div class="product-info">
-                        <p>A set of two old-fashioned whiskey glasses with a sleek side-mounted cigar rest. </p>
-                    </div>
-                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                </div>
-                <div class="product">
-                    <div class="sold-out">
-                        <p>Sold out</p>
-                    </div>
-                    <div class="product-img">
-                        <img src="images/JHPotiri.png" alt="product">
-                    </div>
-                    <div class="product-price">
-                        <div class="row no-gutters align-items-center">
-                            <div class="col-md-6 col-sm-6 col-6"><p>JH Potiri<br> set of 4</p></div>
-                            <div class="col-md-6 col-sm-6 text-right col-6"><p>$75.00</p></div>
-                        </div>
-                    </div>
-                    <div class="product-name">
-                        <p>Four Glass</p>
-                    </div>
-                    <div class="product-star">
-                        <img src="images/star.png" alt="star image">
-                    </div>
-                    <div class="product-info">
-                        <p>A set of four old-fashioned whiskey glasses with a sleek side-mounted cigar rest.</p>
                     </div>
                     <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                 </div>
