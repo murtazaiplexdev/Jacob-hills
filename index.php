@@ -24,18 +24,20 @@
     <!-- header section ends here -->
 
     <!-- banner section starts here -->
-    <div class="banner">
-        <div class="container">
-            <div class="banner-info">
-                <p>At Jacob Hills, we are a group of connoisseurs who share a passion for unique, luxury accessories built with exceptional quality and style. We work with artisans who possess old-world skills to handcraft products of extraordinary quality and beauty with a flair of avant-garde vintage swag.</p>
-                <p>Each component within our collection communicates affluence
-                    through embellishments such as genuine mahogany & cherry wood, stainless steel, and fine glass. In addition to being visually stunning, our products are highly functional and collectable. We take great pride in everything that we create, always looking to innovate while remaining true to the core essentials that our customers value most.</p>
-                <p>Our products are recognized worldwide for their prestigious vintage artistry and distinctive elegance that will bring a great sense of pleasure and pride to even the most discerning accessories enthusiast.</p>
-                <h6>Due to high demand all products are currently sold out. Please click below to be notified when new stock arrives.</h6>
-                <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+    
+        <div class="banner" data-parallax="scroll" data-image-src="images/banner-bg.png">
+            <div class="banner-bg"></div>
+            <div class="container">
+                <div class="banner-info">
+                    <p>At Jacob Hills, we are a group of connoisseurs who share a passion for unique, luxury accessories built with exceptional quality and style. We work with artisans who possess old-world skills to handcraft products of extraordinary quality and beauty with a flair of avant-garde vintage swag.</p>
+                    <p>Each component within our collection communicates affluence
+                        through embellishments such as genuine mahogany & cherry wood, stainless steel, and fine glass. In addition to being visually stunning, our products are highly functional and collectable. We take great pride in everything that we create, always looking to innovate while remaining true to the core essentials that our customers value most.</p>
+                    <p>Our products are recognized worldwide for their prestigious vintage artistry and distinctive elegance that will bring a great sense of pleasure and pride to even the most discerning accessories enthusiast.</p>
+                    <h6>Due to high demand all products are currently sold out. Please click below to be notified when new stock arrives.</h6>
+                    <a class="notify-me" href="#contactus">notify me<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </div>
             </div>
         </div>
-    </div>
     <!-- banner section ends here -->
     <div class="products-wrapper">
         <div class="container">
@@ -284,7 +286,8 @@
         </div>
     </div>
     <!-- product section ends here -->
-    <div class="customer-review">
+    <div class="customer-review" data-parallax="scroll" data-image-src="images/TestimonialsBG.png">
+        <div class="customer-bg"></div>
         <div class="container">
             <h2>What our customers are saying</h2>
             <div class="customer-inner">
@@ -406,6 +409,7 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/wow.min.js"></script>
     <script src="js/lightbox.js"></script>
+    <script src="js/parallax.js"></script>
     <script src="js/custom.js"></script>
     <script>
         new WOW().init();

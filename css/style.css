@@ -152,7 +152,6 @@ button:hover{
 /* header styles ends here */
 /* banner css starts here */
 .banner{
-	background-image: url(../images/banner-bg.png);
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -160,6 +159,13 @@ button:hover{
 	height: 100vh;
 	display: flex;
 	align-items: center;
+}
+.banner-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    z-index: -101;
 }
 .banner-info{
 	max-width: 45%;
@@ -276,6 +282,13 @@ button:hover{
 	background-repeat: no-repeat;
 	padding: 65px 0;
 	background-color: rgba(0, 0, 0, 0.7);
+}
+.customer-bg{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    z-index: -101;
 }
 .customer-review h2{
 	font-weight: normal;
