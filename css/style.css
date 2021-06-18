@@ -156,9 +156,10 @@ button:hover{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
-	height: 100vh;
+	height: auto;
 	display: flex;
 	align-items: center;
+	padding: 200px 0 20px;
 }
 .banner-bg {
     position: absolute;
@@ -500,10 +501,6 @@ a.carousel-control-next {
 	}
 	.carousel-indicators {
 		bottom: -25px;
-	}
-	.banner {
-		height: auto;
-		padding: 200px 0 20px;
 	}
 	.banner-info p{
 		font-size: 20px;
