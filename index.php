@@ -325,7 +325,7 @@
                             <div class="col-md-7">
                                 <div class="customer-review-inner">
                                     <img src="images/star.png" alt="">
-                                    <p>“I’ve been smoking cigars for 40 years and have never stumbled upon such high-quality products. Smoking with Jacob Hills accessories creates a truly luxurious experience for me. Highly recommended. ”</p>
+                                    <p>“I’ve been smoking cigars for 20 years and have never stumbled upon such high-quality products. Smoking with Jacob Hills accessories creates a truly luxurious experience for me. Highly recommended. ”</p>
                                     <h4>Eddy</h4>
                                     <h6>New York City, NY</h6>
                                 </div>
@@ -410,7 +410,7 @@
     <div class="container">
         <div class="footer-inner">
             <div class="footer-logo">
-                <a href="javascipt:void(0)"><img src="images/footer.png" alt=""></a>
+                <a href="#"><img src="images/footer.png" alt=""></a>
             </div>
             <ul>
                 <li><a href="https://www.facebook.com/jacobhillsnyc" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
