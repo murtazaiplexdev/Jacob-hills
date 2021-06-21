@@ -459,6 +459,9 @@ a.carousel-control-next {
 .footer ul li{
 	margin-right: 35px;
 }
+.footer ul li:nth-last-child(1){
+	margin-right: 0;
+}
 .footer ul a i{
 	font: normal normal normal 25px/1 FontAwesome;
 	color: #FFFFFF;
